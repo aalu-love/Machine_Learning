@@ -8,3 +8,5 @@
  - Support Vector Classification
 - Efficientnet B4
  
+<< We have project going on if interested ping me. >>
+ == Summary: Generate faces using following captions pass to model. ==
